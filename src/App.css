@@ -1,0 +1,35 @@
+.App {
+  text-align: left;
+}
+.mv-post{
+  display: flex;
+}
+.movies{
+  height: 47vh;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+#txt_mv{
+  font-size: x-large;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1px;
+}
+.post{
+  padding: 2px;
+  text-align: center;
+}
+#txt_fv{
+  font-size: x-large;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1px;
+}
+#search{
+  float: right;
+}
+img{
+  width:200px;
+  height:200px;
+}
